@@ -46,12 +46,15 @@ title('Graphical Representation of output Signal y');
 
 
 ### CALCULATIONS:
+<img width="858" height="1600" alt="WhatsApp Image 2026-08-08 at 06 52 46" src="https://github.com/user-attachments/assets/3f4a55d4-7c5c-470d-98ff-73cfe624dafb" />
+<img width="791" height="1282" alt="WhatsApp Image 2026-08-08 at 06 51 21" src="https://github.com/user-attachments/assets/1da495ec-2639-4eac-9027-7b389419c22a" />
 
 
 
 
 ### SAMPLE OUTPUT:
 
+<img width="757" height="597" alt="Screenshot 2026-07-28 090026" src="https://github.com/user-attachments/assets/a18b521f-a6b7-4a49-ba5b-4d1ecdf2cdc3" />
 
 
 
